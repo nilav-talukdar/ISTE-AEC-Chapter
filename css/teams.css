@@ -1,0 +1,35 @@
+figure > img {
+    height: 350px;
+    width: 350px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 1.5rem;
+    transition: all 0.4s ease-in-out 0s;
+    &:hover {
+        transform: scale(1.05);
+    }
+}
+
+figure {
+    overflow: hidden;
+    border-radius: 1.5rem;
+    cursor: pointer;
+}
+
+figcaption > p {
+    text-align: center;
+}
+
+figcaption >p:nth-child(1) {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: rgb(0, 72, 0);
+}
+
+figcaption {
+    margin-top: 1.5rem;
+}
+
+#container {
+    background: linear-gradient(to bottom, #f0fdf4, #f3e8ff, transparent);
+}

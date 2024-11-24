@@ -1,0 +1,11 @@
+main {
+    min-height: 100vh;
+    max-width: 100vw;
+    overflow-x: hidden;
+    background: linear-gradient(to bottom, #f0fdf4, #f3e8ff, transparent);
+}
+
+img {
+    object-fit: cover;
+    object-position: center;
+}
