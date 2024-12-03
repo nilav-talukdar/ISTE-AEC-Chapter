@@ -16,6 +16,3 @@ Welcome to the official website of the ISTE (Indian Society for Technical Educat
 - HTML5
 - CSS3
 - JavaScript
-- [Locomotive Scroll](https://github.com/locomotivemtl/locomotive-scroll)
-- [Animate on Scroll](https://michalsnik.github.io/aos/)
-- [Tilt.js](https://gijsroge.github.io/tilt.js/)
